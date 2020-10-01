@@ -1,5 +1,5 @@
 import numpy as np
-# Hi your project is great
+# starting Activation function class
 class Activation(object):   
     def __init__(self):
         """
